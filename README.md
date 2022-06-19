@@ -1,5 +1,5 @@
 <h3 align="center">
-Profile Card
+Profile Card :ant:
 </h3>
 
 https://user-images.githubusercontent.com/86073690/160231694-38c1a92d-8e8b-4cde-9742-4d1c16a56a87.mp4
@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/86073690/160231694-38c1a92d-8e8b-4cde-
 ***
 
 <h6 align="center">
-dev environment
+dev environment :microscope:
 </h6>
 
 <div align="center">
@@ -15,7 +15,7 @@ dev environment
 </div>
 
 <h6 align="center">
-design environments
+design environments :art:
 </h6>
 
 <div align="center">
